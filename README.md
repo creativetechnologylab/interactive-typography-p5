@@ -17,6 +17,15 @@ This repository contains a JavaScript file that leverages the power of p5.js to 
 into how the script works. You are encouraged to have the [p5.js sketch](https://github.com/creativetechnologylab/interactive-typography-p5/blob/main/sketch.js) open in conjunction with this README.
 
 
+No external libaries are required to use this but a font does need to be added to the data directory (create it if necessary) and then loaded. There is a [data](https://github.com/creativetechnologylab/interactive-typography-p5/tree/main/data) folder in this repository that contains some open source font files that can be added to your project to test. 
+
+```javascript
+function preload() {
+  font = loadFont("data/FreeSans.otf");
+}
+```
+
+
 ## 2 Letter Function
 
 The `Letter` function is your workhorse. This function runs an algorithm that extracts path data from the font for each letter.
