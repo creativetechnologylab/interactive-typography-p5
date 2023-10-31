@@ -13,7 +13,8 @@
 
 ## 1. Introduction
 
-This repository contains a JavaScript file that leverages the power of p5.js to transform font paths into a canvas that you can manipulate.
+This repository contains a JavaScript file that leverages the power of p5.js to transform font paths into a canvas that you can manipulate. This document provides some insight 
+into how the script works. You are encouraged to have the [p5.js sketch](https://github.com/creativetechnologylab/interactive-typography-p5/blob/main/sketch.js) open in conjunction with this README.
 
 ```javascript
 let font;
