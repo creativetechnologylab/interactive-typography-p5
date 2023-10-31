@@ -72,6 +72,8 @@ for (let i = 0; i < letters.length; i++) {
 ```
 
 **A Closer Look**: Inside this nested loop, you need to store the x and y position of each point tracing the letter. Once you have each point, you can use it to manipulate the rendering in numerous ways.
+In this example , point.x and point.y are used to reference, in sequence, each point along the path. We use point.x and point.y as inputs into the ellipse, and also give a random offset to each point to 
+make it jitter. 
 
 ```javascript
 let point = letter.pathData[j];
