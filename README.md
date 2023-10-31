@@ -1,9 +1,5 @@
 # Understanding Text Rendering in p5.js: A Deep Dive
 
-*By Your Username*
-
-Welcome to the repository that aims to offer a deeper understanding of text rendering using p5.js. This article, crafted in the style of a technical medium post, aims to educate the reader on how to use p5.js to convert font files into manipulable path information. So, without further ado, let's dive right in!
-
 ## Table of Contents
 
 1. Introduction
@@ -17,7 +13,7 @@ Welcome to the repository that aims to offer a deeper understanding of text rend
 
 ## 1. Introduction
 
-This repository contains a JavaScript file that leverages the power of p5.js to transform font paths into a canvas that you can manipulate. If you've ever wanted to get more interactive with text in p5.js, this is the repository for you.
+This repository contains a JavaScript file that leverages the power of p5.js to transform font paths into a canvas that you can manipulate.
 
 ```javascript
 let font;
