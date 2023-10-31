@@ -6,7 +6,7 @@ let letters = [];
 let textTyped = "hello , world!";
 
 function preload() {
-  font = loadFont("data/NotoSans-Bold.ttf");
+  font = loadFont("data/FreeSans.otf");
 }
 
 function setup() {
