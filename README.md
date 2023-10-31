@@ -104,13 +104,3 @@ For a deeper understanding of translation, it's advised to [read the p5.js docum
 ## 6. Additional Operations
 
 The code also contains functionality for deleting letters, updating the sentence, and even saving your canvas. These functionalities are mainly triggered by keyboard events, and they offer an additional layer of interaction.
-
-## 7. Conclusion and Further Reading
-
-Thank you for reading this article. Hopefully, it offers a deep understanding of how you can manipulate text and fonts using p5.js to create interactive applications.
-
-Happy coding!
-
----
-
-Feel free to modify this README to better fit the style and technical level of your repository.
