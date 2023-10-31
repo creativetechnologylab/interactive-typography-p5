@@ -12,7 +12,6 @@ Welcome to the repository that aims to offer a deeper understanding of text rend
 4. Inside the Draw Loop
 5. Exploring Translation
 6. Additional Operations
-7. Conclusion and Further Reading
 
 ---
 
